@@ -81,26 +81,9 @@ body {
   margin-top: 370px;
   padding-left: -30px;
 }
-.try
-{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -73%;
-  width: 50%;
-}
-.moveUp
-{
-  margin-left: -80%;
-}
-.text-center
-{
-  margin-top: auto;
-}
 .profile-img
 {
   height: 200px;
-  width: 50%
 }
 .nav-bar
 {
