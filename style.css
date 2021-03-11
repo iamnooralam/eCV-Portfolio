@@ -93,12 +93,10 @@ body {
 {
   margin-left: -80%;
 }
-
 .text-center
 {
-  margin-top: 15px;
+  margin-top: auto;
 }
-
 .profile-img
 {
   height: 200px;
